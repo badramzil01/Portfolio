@@ -1,6 +1,8 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://portfolio.vercel.app/" target="_blank">badr-amzil.vercel.app</a>
+  <a href="https://portfoliobadramzil.vercel.app/" target="_blank">
+    portfoliobadramzil.vercel.app
+  </a>
 </h2>
 
 <div align="center">
@@ -21,7 +23,8 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/badramzil01/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/badramzil01/Portfolio/issues">Report Bug</a>
+    &nbsp;&nbsp;
     🔹
     <a href="https://github.com/badramzil01/Portfolio/issues">Request Feature</a>
 </h3>
@@ -30,20 +33,20 @@
 
 ## TL;DR
 
-You can fork this repository and customize it for your own use.  
-This version has been customized and deployed by **Badr Amzil**.
+This is the personal portfolio website of **Badr Amzil**,  
+built with **React.js** and deployed on **Vercel**.
 
-Original inspiration credited to the open-source community ❤️.
+🔗 Live Demo:  
+👉 https://portfoliobadramzil.vercel.app/
 
 ---
 
 ## Built With
 
-My personal portfolio  
-<a href="https://portfolio.vercel.app/" target="_blank">badr-amzil.vercel.app</a>  
-which features my projects, resume, technical skills, and professional experience.
+My personal portfolio website showcases my projects, resume,
+technical skills, and professional experience.
 
-This project was built using these technologies:
+This project was built using the following technologies:
 
 - React.js
 - Node.js
@@ -56,23 +59,17 @@ This project was built using these technologies:
 
 ## Features
 
-**📖 Multi-Page Layout**
-
-**🎨 Styled with React-Bootstrap and CSS (easy to customize colors)**
-
-**📱 Fully Responsive**
+📖 **Multi-Page Layout**  
+🎨 **Styled with React-Bootstrap and CSS (easy to customize)**  
+📱 **Fully Responsive (Mobile / Tablet / Desktop)**  
 
 ---
 
 ## Getting Started
 
-Clone down this repository.  
-You will need `node.js` and `git` installed globally on your machine.
+Clone this repository.  
+Make sure you have `node.js` and `git` installed globally.
 
----
-
-## 🛠 Installation and Setup Instructions
-
-1. Install dependencies:
 ```bash
-npm install
+git clone https://github.com/badramzil01/Portfolio.git
+cd Portfolio
