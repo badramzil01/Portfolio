@@ -31,7 +31,7 @@
 
 ---
 
-## TL;DR
+## About
 
 This is the personal portfolio website of **Badr Amzil**,  
 built with **React.js** and deployed on **Vercel**.
