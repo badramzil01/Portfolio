@@ -1,6 +1,6 @@
 - [x] Remove Resume import and route from src/App.js
 - [x] Remove Resume navigation link from src/components/Navbar.js
 - [x] Delete src/components/Resume/ResumeNew.js file
-- [ ] Create new branch with prefix 'blackboxai/'
-- [ ] Commit the changes
-- [ ] Push the changes to GitHub
+- [x] Create new branch with prefix 'blackboxai/'
+- [x] Commit the changes
+- [x] Push the changes to GitHub
